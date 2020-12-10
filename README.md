@@ -15,3 +15,6 @@ classify image of face with mask into 5 categories with mobilenet v2.
 - [MaskedFace-Net](https://github.com/cabani/MaskedFace-Net) - Syntatically generated images
 - [...]()
 - [...]()
+
+# Demo
+- [Google Colab](https://colab.research.google.com/drive/1aAqAmwpuUFaGp7CmJQTdGoOEbEMxa8gu#scrollTo=pIhvoWJxqDNx)
